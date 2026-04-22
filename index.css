@@ -80,6 +80,7 @@ body {
 #button-container {
 	padding-left: 16px;
 	padding-right: 16px;
+	margin-bottom: 96px;
 	display: flex;
 	gap: 12px;
 	justify-content: start;
