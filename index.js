@@ -30,7 +30,7 @@ if (!videoIndex) {
 
 function toAppgallery() {
 	// Replace with a real usable application market app linking link.
-	window.location.href = 'https://appgallery.huawei.com/app/detail?id=com.huawei.hmsapp.books';
+	window.location.href = 'https://appgallery.huawei.com/app/detail?id=com.huawei.hmos.world';
 }
 
 window.onload = function() {
